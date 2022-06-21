@@ -1,2 +1,2 @@
 # MoviesWebsite
-<img src="<img src="gorsel-link" width="auto">" width="auto">
+<img src="https://raw.githubusercontent.com/Gamze-Celik/MoviesWebsite/main/film.png" width="auto">
